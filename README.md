@@ -43,7 +43,6 @@ Communicating the performance impact of features.
 * NOTE: IE8, IE9 with compatibility mode on loads all the fonts regardless of if they're needed
 
 #### Responsive images
-* Picture element
-* Srcset digest
+* Picture element (srcset) http://html5hub.com/html5-picture-element/
 * Device conditions
 * Picturefill polyfill
