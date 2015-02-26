@@ -11,7 +11,7 @@ Communicating the performance impact of features.
 * Network link conditioner
 * OSX bandwidth throttling tools
 * Performance regression testing
-* How do we know our sites fast = speed index (etsy generally aims for 1000, but horses for courses)
+* How do we know our sites fast = speed index (etsy generally aims for 1000, but horses for courses, make it fast!!!)
 
 #### Points
 * Having a performance budget
